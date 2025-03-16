@@ -1,7 +1,9 @@
 # P.A.N.D.A - Laravel版 🥋📊
 
 武道・格闘技教室（Dojo）向けの管理システム。  
-道場の生徒管理、出席管理、評価管理、通知機能を提供し、指導者の負担を軽減します。
+道場の生徒管理、出席管理、評価管理、通知機能を提供し、指導者の負担を軽減する。
+ブラジル国立高等専門学校（高専）での卒業作品として PHP、HTML、CSSを用いて開発した、
+P.A.N.D.A (Programa de Acompanhamento e Notificação para Dojos e Atividades)をLaravelを用いて再構築したもの
 
 ## 🌟 特徴
 - **Laravel で開発**: モダンなPHPフレームワークを使用
